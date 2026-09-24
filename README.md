@@ -30,4 +30,4 @@ Customized workout routines based on user inputs
 
 •Instant response powered by Gemini Al demo video :* Project
 
-•Demo Video: Watch Demo Video on Google Drive
+•Demo Video: Watch Demo Video on Google Drive:https://drive.google.com/file/d/1NP8wmOnVI-kA9kfZmaoix_ZYss03P6Ck/view?usp=drivesdk
